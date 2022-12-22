@@ -1,10 +1,10 @@
 services:
   - type: worker
-    name: zipbot
+    name: zipperbot
     env: python
     buildCommand: pip install -r requirements.txt
     startCommand: python main.py
-    repo: https://github.com/sholoomail/Zipper-bot.git
+    repo: https://github.com/sholoomail/Zipperbot.git
     branch: main
     envVars:
       - key: BOT_TOKEN 
