@@ -2,6 +2,9 @@
 
 A telegram bot that allows compression of multiple files into a ZIP archive
 
+### Deploy To Render (Paid)
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?)
 
 
 ## Deploy to Heroku
